@@ -1,0 +1,6 @@
+Webhook https://groosha.gitbooks.io/telegram-bot-lessons/multiple_bots_1.html
+SSL https://codebeer.ru/sozdanie-samopodpisannogo-ssl-sertifikata/
+SSL http://wmdn.ru/software/creating-a-self-signed-certificate-in-openssl-with-keyusage-digital-signature/
+Apache SSL http://malwselennaiaru.ru/191-nastroyka-https-v-apache-na-windows-81.html
+Lets-encrypt https://habrahabr.ru/post/270273/
+DB https://habrahabr.ru/post/321510/
