@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-BOT_TOKEN = "308039515:AAFc2mU9mCYtyZS7zwXNYLNX0XFj0MWvLPY"
-
 DATABASE_PATH = "db/database.db"
 
 ABOUT_STR = '''

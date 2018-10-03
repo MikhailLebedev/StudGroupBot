@@ -3,6 +3,7 @@
 from config import *
 from keyboard import *
 from classes import *
+from token import *
 
 import telebot
 import sqlite3
